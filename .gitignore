@@ -60,7 +60,10 @@
 
 # #  SPECIFIC FILES.
 
-# #  Original screen recording, to reduce possibilities of doxing.
-# vid-readme_frontpage_gif-01_original_footage.mp4
+#  Original screen recording, to reduce possibilities of doxing.
+vid-readme_frontpage_gif-original_footage*.mp4
+
+#  Excel 'form' for data collection.
+analista_de_datos-CEMPRE-formulario.xlsx
 
 # EOF.
